@@ -1,0 +1,167 @@
+[
+	{
+		"id": 1,
+		
+		"title": "Implementation Barriers: A TASKS Framework",
+		"journal": "1",
+		"abstract": "Implementation is ubiquitous. The identification of barriers to implementation is critical for achieving\r\nimplementation success. This paper introduces and discusses a deductive theory-based framework, TASKS, to guide\r\nthe identification of implementation barriers. The TASKS framework deals with the relationships between a Task and\r\nthe task implementer's Affect, Skills, and Knowledge, based on the inversed U-shaped mental Stress-mental effort\r\nrelation. The TASKS framework classifies implementation barriers into four categories: 1) emotion barriers, 2) logic\r\nbarriers, 3) knowledge barriers, and 4) resources barriers. The TASKS framework detects barriers to implementation\r\nfollowing three steps, 1) identifying the ideal TASKS components, 2) modelling the implementer's mental capability,\r\nand 3) detecting barriers to implementation. The TASKS framework can be applied to a wide range of disciplines for\r\neffective and efficient task implementation.",
+		"year": 2021,
+		"author": {
+			"id": 1,
+			"name": ""
+		},
+		"co_authors": [
+			{
+				"id": 2,
+				"name": ""
+			},
+			{
+				"id": 3,
+				"name": ""
+			},
+			{
+				"id": 4,
+				"name": ""
+			}
+		],
+		"questions": [
+			{
+				"id": 1,
+				"research_question": "What is a (an) implementation?"
+			},
+			{
+				"id": 2,
+				"research_question": "What is a (an) barriers?"
+			},
+			{
+				"id": 3,
+				"research_question": "What is a (an) barriers implementation?"
+			},
+			{
+				"id": 4,
+				"research_question": "What is a (an) tasks?"
+			},
+			{
+				"id": 5,
+				"research_question": "What is a (an) framework?"
+			},
+			{
+				"id": 6,
+				"research_question": "What do you mean by \"be\"?"
+			},
+			{
+				"id": 7,
+				"research_question": "What does a (an) barriers be?"
+			},
+			{
+				"id": 8,
+				"research_question": "How to be tasks?\nWho to be tasks?\nWhen to be tasks?"
+			},
+			{
+				"id": 9,
+				"research_question": "How to be framework?\nWho to be framework?\nWhen to be framework?"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"title": "Sustainability: Design, Making, and Technologies",
+		"journal": "1",
+		"abstract": "",
+		"year": 2020,
+		"author": {
+			"id": 1,
+			"name": ""
+		},
+		"co_authors": [
+			{
+				"id": 4,
+				"name": ""
+			}
+		],
+		"questions": []
+	},
+	{
+		"id": 3,
+		"title": "Boeing 737NG Aircraft Landing Distance Assessment",
+		"journal": "2021 IEEE 3rd International Conference on Civil Aviation Safety and Information Technology (ICCASIT)",
+		"abstract": "The article is aimed at the evaluation of the domestic airlines 737NG landing distance. It focuses on the requirements of relevant domestic and foreign regulations, the evaluation methods of required and operational landing distance, the different evaluation standards of the air segment in landing distance, and the corresponding relationship between the Contaminated Runway condition and the braking effect.",
+		"year": 2021,
+		"author": {
+			"id": 5,
+			"name": "Wang Daoxin"
+		},
+		"co_authors": [],
+		"questions": []
+	},
+	{
+		"id": 4,
+		"title": "Research on the Prediction of Aircraft Landing Distance",
+		"journal": "Mathematical Problems in Engineering",
+		"abstract": "To prevent aircraft from running off the runway during landing, this paper uses a BP neural network model to predict the aircraft landing distance. In this study, based on the five main influencing factors of airport height, aircraft landing quality, airport runway slope, wind, and ambient temperature, the B737-800 was selected as the reference aircraft and the relevant operational data were collected using Boeing\u2019s LAND software for the study. In addition, this study uses LM (Levenberg\u2013Marquardt) algorithm and GA (genetic algorithm) to optimize the training process, accelerate the computation speed, and improve the shortage of local optimization of BP (back propagation) neural network model and then construct the GA-LM-BP neural network optimization model. Finally, it makes the BP neural network have the ability of global search for optimal solutions. The results show that the predicted landing data are in good agreement with the measured landing data. The maximum absolute error is within 6.66\u2009m and the maximum relative error is within 0.038%.",
+		"year": 2022,
+		"author": {
+			"id": 6,
+			"name": "Ning Zhao"
+		},
+		"co_authors": [
+			{
+				"id": 7,
+				"name": "Junchao Zhang"
+			}
+		],
+		"questions": []
+	},
+	{
+		"id": 5,
+		"title": "An improved aircraft landing distance prediction model based on particle swarm optimization \u2014 Extreme learning machine method",
+		"journal": "2017 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)",
+		"abstract": "Aiming at the problem that aircraft landing runway overrun, this paper proposed a landing distance prediction model based on improved extreme learning machine (ELM) with flight data. Particle swarm optimization (PSO) was used to optimize the input layer weights and the hidden element bias of a single hidden layer feedforward network. And then the optimal input weights and the implicit bias were applied to the ELM prediction model. Firstly, flight data is preprocessed with data slicing method based on flight height, and determine model input variables. Secondly, select the appropriate activation function. Subsequently, establish the PSO-ELM model of landing distance prediction. In the end, compare with traditional BP neural network and ELM under different evaluation indexes. The results show that the prediction of landing distance conforms to the actual measured data. The maximum absolute error is 45 meters, and the maximum relative error is 6%.",
+		"year": 2017,
+		"author": {
+			"id": 8,
+			"name": "Silin Qian"
+		},
+		"co_authors": [
+			{
+				"id": 9,
+				"name": "Shenghan Zhou"
+			},
+			{
+				"id": 10,
+				"name": "Wenbing Chang"
+			},
+			{
+				"id": 11,
+				"name": "Fajie Wei"
+			}
+		],
+		"questions": []
+	},
+	{
+		"id": 6,
+		"title": "A Mechanistic-Empirical Aircraft Landing Distance Prediction Method",
+		"journal": "",
+		"abstract": "Landing overrun accidents have become a major concern over recent decades regarding airline and airport safety. This paper is aimed to study aircraft landing and build a mechanistic-empirical aircraft landing distance prediction method, which will help airport operators and airlines mitigate the risk of runway overrun. The landing distance prediction method established in this paper incorporates a mechanistic-based analysis and an empirical real data calibration. The method includes two portions: deceleration equations and the landing distance model. Deceleration equations are built according to force and moment analysis and calibrated based on digital flight data and weather data. Then, based on the deceleration equations, a landing distance model is established. When building the landing distance model, the following characteristics are considered: pilot settings (TLA, spoiler position, and flap position configurations), aircraft operational characteristics (touchdown speed and weight), the runway friction condition, and aircraft braking system characteristics. A Boeing 737-700 real data case study is done and a comparison is made with the Boeing 737 Quick Reference Handbook reference landing distance. The results indicate the model offers an accurate prediction of aircraft landing distance. In addition, this mechanistic-empirical method has several advantages over previous methods and has the potential opportunity for routine airline safety management to enhance safety.",
+		"year": 2014,
+		"author": {
+			"id": 12,
+			"name": "C. Zhang"
+		},
+		"co_authors": [
+			{
+				"id": 13,
+				"name": "S. Tighe"
+			},
+			{
+				"id": 14,
+				"name": "Soo Jeon"
+			},
+			{
+				"id": 15,
+				"name": "H. Kwon"
+			}
+		],
+		"questions": []
+	}
+]

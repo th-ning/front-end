@@ -1,0 +1,75 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "label": "Zeng, 2004"
+    },
+    {
+      "id": "2",
+      "label": "Zeng, 2009"
+    },
+    {
+      "id": "3",
+      "label": "Chen, 2007"
+    },
+    {
+      "id": "4",
+      "label": "Yao, 2011"
+    },
+    {
+      "id": "5",
+      "label": "Yan, 2020"
+    },
+    {
+      "id": "7",
+      "label": "Zhu, 2021"
+    }
+  ],
+  "edges": [
+    {
+      "source": "1",
+      "target": "2"
+    },
+    {
+      "source": "1",
+      "target": "4"
+    },
+    {
+      "source": "2",
+      "target": "7"
+    },
+    {
+      "source": "4",
+      "target": "5"
+    },
+    {
+      "source": "1",
+      "target": "3"
+    },
+    {
+      "source": "1",
+      "target": "5"
+    },
+    {
+      "source": "2",
+      "target": "3"
+    },
+    {
+      "source": "2",
+      "target": "5"
+    },
+    {
+      "source": "3",
+      "target": "5"
+    },
+    {
+      "source": "3",
+      "target": "4"
+    },
+    {
+      "source": "5",
+      "target": "7"
+    }
+  ]
+}
+

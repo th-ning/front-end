@@ -1,0 +1,75 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "label": "art, 2004"
+    },
+    {
+      "id": "2",
+      "label": "a, 2009"
+    },
+    {
+      "id": "3",
+      "label": "a, 2007"
+    },
+    {
+      "id": "4",
+      "label": "a, 2011"
+    },
+    {
+      "id": "5",
+      "label": "a, 2020"
+    },
+    {
+      "id": "6",
+      "label": "a, 2021"
+    }
+  ],
+  "edges": [
+    {
+      "source": "1",
+      "target": "2"
+    },
+    {
+      "source": "1",
+      "target": "4"
+    },
+    {
+      "source": "2",
+      "target": "6"
+    },
+    {
+      "source": "4",
+      "target": "5"
+    },
+    {
+      "source": "1",
+      "target": "3"
+    },
+    {
+      "source": "1",
+      "target": "5"
+    },
+    {
+      "source": "2",
+      "target": "3"
+    },
+    {
+      "source": "2",
+      "target": "5"
+    },
+    {
+      "source": "3",
+      "target": "5"
+    },
+    {
+      "source": "3",
+      "target": "4"
+    },
+    {
+      "source": "5",
+      "target": "6"
+    }
+  ]
+}
+
